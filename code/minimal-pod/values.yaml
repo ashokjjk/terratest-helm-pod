@@ -1,0 +1,2 @@
+# This is intentially kept "" during test time the values are pushed. See pod_integration_test.go line number - 27
+image: ""
